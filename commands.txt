@@ -1,3 +1,13 @@
 Hello git
 
 hello
+
+git init
+git status
+git add
+git rm --cached
+git commit -m
+git log
+git restore
+git log --oneline
+
